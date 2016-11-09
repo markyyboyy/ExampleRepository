@@ -1,2 +1,1 @@
-# ExampleRepository
 # GameOfLife
